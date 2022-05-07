@@ -1,2 +1,4 @@
 # TheOdinPorject
-Web development
+Foundation Project
+
+First Html Project without css
