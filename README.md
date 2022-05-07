@@ -1,4 +1,3 @@
-# TheOdinPorject
-Foundation Project
+# The Odin Porject
 
-First Html Project without css
+*WEB DEVELOPMENT*
